@@ -3,45 +3,15 @@
 
   <h3 align="center">ONE VehicleLocks</h3>
 
-  <p align="center">
+  <div align="center">
 
     <a href="https://github.com/Axor58/ONE_VehicleLocks/wiki">Docs</a>
     ·
     <a href="https://github.com/Axor58/ONE_VehicleLocks/issues">Report Bug</a>
     ·
     <a href="https://github.com/Axor58/ONE_VehicleLocks/issues">Request Feature</a>
-  </p>
+  </div>
 </div>
-
-
-
-<!-- TABLE OF CONTENTS -->
-<details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
-  </ol>
-</details>
-
-
 
 <!-- ABOUT THE PROJECT -->
 ## ONE VehicleLocks
@@ -62,8 +32,6 @@ Use the `README.md` to get started.
 
 
 ### Installation
-
-_Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
 
 1. Buy this resource on Tebex or Discord.
 2. Put your files in ```resource``` folder.
