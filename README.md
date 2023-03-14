@@ -1,6 +1,6 @@
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
+[![Stargazers][stars-Axor58]][stars-url]
+[![Issues][issues-Axor58]][issues-url]
+[![MIT License][license-Axor58]][license-url]
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
