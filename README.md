@@ -4,7 +4,6 @@
   <h3 align="center">ONE VehicleLocks</h3>
 
   <p align="center">
-    README of ONE VehicleLocks
     <br />
     <a href="https://github.com/Axor58/ONE_VehicleLocks/wiki"><strong>Explore the docs »</strong></a>
     <br />
