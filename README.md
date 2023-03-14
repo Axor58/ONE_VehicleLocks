@@ -1,8 +1,3 @@
-[![Stargazers][stars-Axor58]][stars-url]
-[![Issues][issues-Axor58]][issues-url]
-[![MIT License][license-Axor58]][license-url]
-<!-- PROJECT LOGO -->
-<br />
 <div align="center">
     <img src="https://imgur.com/a/7ryOFEG" alt="Logo" width="80" height="80">
 
