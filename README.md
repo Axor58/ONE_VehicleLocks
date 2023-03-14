@@ -3,14 +3,17 @@
 
   <h3 align="center">ONE VehicleLocks</h3>
 
-  <div align="center">
-
-    <a href="https://github.com/Axor58/ONE_VehicleLocks/wiki">Docs</a>
-    ·
+  <p align="center">
+    README of ONE VehicleLocks
+    <br />
+    <a href="https://github.com/Axor58/ONE_VehicleLocks/wiki"><strong>Explore the docs »</strong></a>
+    <br />
+    <br />
     <a href="https://github.com/Axor58/ONE_VehicleLocks/issues">Report Bug</a>
     ·
     <a href="https://github.com/Axor58/ONE_VehicleLocks/issues">Request Feature</a>
-  </div>
+  </p>
+</div>
 </div>
 
 <!-- ABOUT THE PROJECT -->
