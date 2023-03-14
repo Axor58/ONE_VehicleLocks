@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://cdn.discordapp.com/attachments/700042171943747684/1085316363322654801/OneByteProjects.png" alt="Logo" width="80" height="80">
+    <img src="https://files.fm/u/n4ryfemvj" alt="Logo" width="80" height="80">
 
   <h3 align="center">ONE VehicleLocks</h3>
 
