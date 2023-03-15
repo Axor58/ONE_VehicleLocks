@@ -54,7 +54,7 @@ See the [open issues](https://github.com/Axor58/ONE_VehicleLocks/issues) for a f
 <!-- LICENSE -->
 ## License
 
-Distributed under the MIT License. See `LICENSE.txt` for more information.
+Distributed under the BSD 2-Clause License. See `LICENSE.md` for more information.
 
 
 
